@@ -1,0 +1,2 @@
+INSERT INTO productos (tipo,cantidad,precio,marca,fecha_ingreso,descripcion) VALUES ('Cochara', 30, 4.20, 'Inox', '2022-01-18', 'taca, y a comer');
+INSERT INTO productos (tipo,cantidad,precio,marca,fecha_ingreso,descripcion) VALUES ('Tenedor', 2, 5.33, 'Inox', '2022-01-18', 'pinch');
